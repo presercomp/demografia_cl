@@ -9,3 +9,4 @@ Ejecutar directamente en una base de datos
 
 ## License
 
+GNU GENERAL PUBLIC LICENSE
