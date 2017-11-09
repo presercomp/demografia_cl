@@ -191,27 +191,6 @@ INSERT INTO `comunas` (`comuna_codigo`, `provincias_codigo`, `comuna_nombre`) VA
 (8312, 83, 'Tucapel'),
 (8313, 83, 'Yumbel'),
 (8314, 83, 'Alto Biobío'),
-(8401, 84, 'Chillán'),
-(8402, 84, 'Bulnes'),
-(8403, 84, 'Cobquecura'),
-(8404, 84, 'Coelemu'),
-(8405, 84, 'Coihueco'),
-(8406, 84, 'Chillán Viejo'),
-(8407, 84, 'El Carmen'),
-(8408, 84, 'Ninhue'),
-(8409, 84, 'Ñiquén'),
-(8410, 84, 'Pemuco'),
-(8411, 84, 'Pinto'),
-(8412, 84, 'Portezuelo'),
-(8413, 84, 'Quillón'),
-(8414, 84, 'Quirihue'),
-(8415, 84, 'Ránquil'),
-(8416, 84, 'San Carlos'),
-(8417, 84, 'San Fabián'),
-(8418, 84, 'San Ignacio'),
-(8419, 84, 'San Nicolás'),
-(8420, 84, 'Treguaco'),
-(8421, 84, 'Yungay'),
 (9101, 91, 'Temuco'),
 (9102, 91, 'Carahue'),
 (9103, 91, 'Cunco'),
@@ -362,7 +341,28 @@ INSERT INTO `comunas` (`comuna_codigo`, `provincias_codigo`, `comuna_nombre`) VA
 (15101, 151, 'Arica'),
 (15102, 151, 'Camarones'),
 (15201, 152, 'Putre'),
-(15202, 152, 'General Lagos');
+(15202, 152, 'General Lagos'),
+(16101, 161, 'Cobquecura'),
+(16102, 161, 'Coelemu'),
+(16103, 161, 'Ninhue'),
+(16104, 161, 'Portezuelo'),
+(16105, 161, 'Quirihue'),
+(16106, 161, 'Ránquil'),
+(16107, 161, 'Treguaco'),
+(16201, 162, 'Bulnes'),
+(16202, 162, 'Chillán Viejo'),
+(16203, 162, 'Chillán'),
+(16204, 162, 'El Carmen'),
+(16205, 162, 'Pemuco'),
+(16206, 162, 'Pinto'),
+(16207, 162, 'Quillón'),
+(16208, 162, 'San Ignacio'),
+(16209, 162, 'Yungay'),
+(16301, 163, 'Coihueco'),
+(16302, 163, 'Ñiquen'),
+(16303, 163, 'San Carlos'),
+(16304, 163, 'San Fabián'),
+(16305, 163, 'San Nicolás');
 
 CREATE TABLE IF NOT EXISTS `provincias` (
   `provincias_codigo` int(11) NOT NULL,
@@ -402,7 +402,6 @@ INSERT INTO `provincias` (`provincias_codigo`, `regiones_codigo`, `provincias_no
 (81, 8, 'Concepción'),
 (82, 8, 'Arauco'),
 (83, 8, 'Biobío'),
-(84, 8, 'Ñuble'),
 (91, 9, 'Cautín'),
 (92, 9, 'Malleco'),
 (101, 10, 'Llanquihue'),
@@ -426,7 +425,10 @@ INSERT INTO `provincias` (`provincias_codigo`, `regiones_codigo`, `provincias_no
 (141, 14, 'Valdivia'),
 (142, 14, 'Ranco'),
 (151, 15, 'Arica'),
-(152, 15, 'Parinacota');
+(152, 15, 'Parinacota'),
+(161, 16, 'Itata'),
+(162, 16, 'Diguillin'),
+(163, 16, 'Punilla');
 
 CREATE TABLE IF NOT EXISTS `regiones` (
   `regiones_codigo` int(11) NOT NULL AUTO_INCREMENT,
@@ -450,7 +452,8 @@ INSERT INTO `regiones` (`regiones_codigo`, `regiones_nombre`, `regiones_iso_3166
 (12, 'Región Aisén del Gral. Carlos Ibáñez del Campo', 'CL_AI'),
 (13, 'Región de Magallanes y de la Antártica Chilena', 'CL_MA'),
 (14, 'Región Metropolitana de Santiago', 'CL_RM'),
-(15, 'Región de Arica y Parinacota', 'CL_AP');
+(15, 'Región de Arica y Parinacota', 'CL_AP'),
+(16, 'Región de Ñuble', NULL);
 
 
 ALTER TABLE `comunas`
