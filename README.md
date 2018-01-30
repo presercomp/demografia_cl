@@ -5,7 +5,7 @@ SQL con las regiones, provincias, comunas y ciudades de chile al 1° semestre de
 
 ## Installation
 
-Ejecutar directamente en una base de datos
+Ejecutar directamente en una base de datos de tipo MySQL
 
 ## License
 
