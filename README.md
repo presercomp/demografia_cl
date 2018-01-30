@@ -1,7 +1,7 @@
 # demografia_cl
 ## Objetivo
 
-SQL con las regiones, provincias, comunas y ciudades de chile al 1° semestre de 2015
+SQL con las regiones, provincias, comunas y ciudades de chile al 2° semestre de 2017
 
 ## Installation
 
