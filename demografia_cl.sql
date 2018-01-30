@@ -1,13 +1,12 @@
 SET FOREIGN_KEY_CHECKS=0;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
-
+/* *** */
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
-
-
+/* *** */
 CREATE TABLE IF NOT EXISTS `comunas` (
   `comuna_codigo` int(11) NOT NULL,
   `provincias_codigo` int(11) NOT NULL,
@@ -15,7 +14,7 @@ CREATE TABLE IF NOT EXISTS `comunas` (
   PRIMARY KEY (`comuna_codigo`),
   KEY `fk_comunas_provincias1_idx` (`provincias_codigo`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
+/* *** */
 INSERT INTO `comunas` (`comuna_codigo`, `provincias_codigo`, `comuna_nombre`) VALUES
 (1101, 11, 'Iquique'),
 (1107, 11, 'Alto Hospicio'),
@@ -363,7 +362,7 @@ INSERT INTO `comunas` (`comuna_codigo`, `provincias_codigo`, `comuna_nombre`) VA
 (16303, 163, 'San Carlos'),
 (16304, 163, 'San Fabián'),
 (16305, 163, 'San Nicolás');
-
+/* *** */
 CREATE TABLE IF NOT EXISTS `provincias` (
   `provincias_codigo` int(11) NOT NULL,
   `regiones_codigo` int(11) NOT NULL,
@@ -371,7 +370,7 @@ CREATE TABLE IF NOT EXISTS `provincias` (
   PRIMARY KEY (`provincias_codigo`),
   KEY `fk_provincias_regiones1_idx` (`regiones_codigo`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
+/* *** */
 INSERT INTO `provincias` (`provincias_codigo`, `regiones_codigo`, `provincias_nombre`) VALUES
 (11, 1, 'Iquique'),
 (14, 1, 'Tamarugal'),
@@ -429,14 +428,14 @@ INSERT INTO `provincias` (`provincias_codigo`, `regiones_codigo`, `provincias_no
 (161, 16, 'Itata'),
 (162, 16, 'Diguillin'),
 (163, 16, 'Punilla');
-
+/* *** */
 CREATE TABLE IF NOT EXISTS `regiones` (
   `regiones_codigo` int(11) NOT NULL AUTO_INCREMENT,
   `regiones_nombre` varchar(100) DEFAULT NULL,
   `regiones_iso_3166_2` varchar(5) DEFAULT NULL,
   PRIMARY KEY (`regiones_codigo`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
+/* *** */
 INSERT INTO `regiones` (`regiones_codigo`, `regiones_nombre`, `regiones_iso_3166_2`) VALUES
 (1, 'Región de Tarapacá', 'CL_TA'),
 (2, 'Región de Antofagasta', 'CL_AN'),
@@ -454,15 +453,15 @@ INSERT INTO `regiones` (`regiones_codigo`, `regiones_nombre`, `regiones_iso_3166
 (14, 'Región Metropolitana de Santiago', 'CL_RM'),
 (15, 'Región de Arica y Parinacota', 'CL_AP'),
 (16, 'Región de Ñuble', NULL);
-
-
+/* *** */
 ALTER TABLE `comunas`
   ADD CONSTRAINT `fk_comunas_provincias1` FOREIGN KEY (`provincias_codigo`) REFERENCES `provincias` (`provincias_codigo`) ON DELETE NO ACTION ON UPDATE NO ACTION;
-
+/* *** */
 ALTER TABLE `provincias`
   ADD CONSTRAINT `fk_provincias_regiones1` FOREIGN KEY (`regiones_codigo`) REFERENCES `regiones` (`regiones_codigo`) ON DELETE NO ACTION ON UPDATE NO ACTION;
 SET FOREIGN_KEY_CHECKS=1;
-
+/* *** */
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/* *** */
