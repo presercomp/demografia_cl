@@ -1,0 +1,1624 @@
+﻿1,1,Chanavayita
+2,1,Iquique
+3,2,Alto Hospicio
+4,3,La Tirana
+5,3,Pozo Almonte
+6,4,Camiña
+7,5,Colchane
+8,6,Huara
+9,6,Pisagua
+10,6,Tarapacá
+11,7,Matilla
+12,7,Pica
+13,8,Antofagasta
+14,8,Cerro Moreno
+15,8,Coloso
+16,9,Carolina de Michilla
+17,9,Hornitos
+18,9,Mejillones
+19,10,Sierra Gorda
+20,11,Cifuncho
+21,11,Paposo
+22,11,Taltal
+23,12,Aiquina
+24,12,Calama
+25,12,Caspana
+26,12,Chiuchiu
+27,12,Lassana
+28,12,Toconce
+29,12,Turi
+30,13,Ollagüe
+31,14,Camar
+32,14,Machuca
+33,14,Peine
+34,14,Río Grande
+35,14,San Pedro de Atacama
+36,14,Socaire
+37,14,Talabre
+38,14,Toconao
+39,15,Tocopilla
+40,16,Las Tres Marías
+41,16,María Elena
+42,16,Valle de Quilagua
+43,17,Bodega
+44,17,Chamonate
+45,17,Copiapó
+46,17,Piedra Colgada
+47,17,San Pedro
+48,17,Toledo
+49,18,Bahía Inglesa
+50,18,Caldera
+51,18,Puerto Viejo
+52,19,Cerrillos
+53,19,Hornitos
+54,19,Los Loros
+55,19,Nantoco
+56,19,Tierra Amarilla
+57,20,Chañaral
+58,20,El Salado
+59,20,Flamenco
+60,20,Pan de Azúcar
+61,21,Diego de Almagro
+62,21,Inca de Oro
+63,21,Llanta
+64,22,Domeyko
+65,22,Incaguasi
+66,22,Vallenar
+67,23,Alto del Carmen
+68,23,Chanchoquín
+69,23,El Tránsito
+70,23,San Félix
+71,24,Freirina
+72,25,Carrizal
+73,25,Fririna
+74,25,Huasco
+75,25,Huasco Bajo
+76,26,Algarrobito
+77,26,Altovalsol
+78,26,Coquimbito
+79,26,El Romero
+80,26,El Rosario
+81,26,Islón
+82,26,La Serena
+83,26,Lambert
+84,26,Las Rojas
+85,26,Quebrada de Talca
+86,27,Coquimbo
+87,27,Cuesta El Manzano
+88,27,El Sauce
+89,27,Guanaqueros
+90,27,Las Barrancas
+91,27,Nueva Vida
+92,27,Pan de Azúcar
+93,27,Tambillos
+94,27,Tongoy
+95,28,Andacollo
+96,29,Caleta Hornos
+97,29,Chungungo
+98,29,El Trapiche
+99,29,La Higuera
+100,29,Los Choros
+101,29,Punta Colorada
+102,29,Punta de Choros
+103,30,Montegrande
+104,30,Paihuano
+105,30,Pisco Elqui
+106,31,Diaguitas
+107,31,El Tambo
+108,31,Gualliguaica
+109,31,Marquesa
+110,31,Nueva Talcuna
+111,31,Peralillo
+112,31,Rivadavia
+113,31,Vicuña
+114,32,Canelillo
+115,32,Cárcamo
+116,32,Cuzcuz
+117,32,Huintil
+118,32,Illapel
+119,32,Las Cañas
+120,32,Limáhuida
+121,32,Perailillo
+122,32,Tunga Norte
+123,32,Tunga Sur
+124,33,Canela
+125,33,Canela Alta
+126,33,Canela Baja
+127,33,Huentelauquén Norte
+128,33,Huentelauquén Sur
+129,33,Mincha Norte
+130,34,Guangualí
+131,34,Los Cóndores
+132,34,Los Vilos
+133,34,Pichidangui
+134,34,Quilimarí
+135,35,Arboleda Grande
+136,35,Batuco
+137,35,Chilepín
+138,35,Chuchiní
+139,35,Coirón
+140,35,Cuncumén
+141,35,El Tambo
+142,35,El Tebal
+143,35,Panguesillo
+144,35,Salamanca
+145,35,San Agustín
+146,35,Tahuinco
+147,35,Tranquila
+148,36,Algarrobo
+149,36,Barraza
+150,36,Canelilla
+151,36,Carachilla
+152,36,Cerrillos de Tamaya
+153,36,Gualillinga
+154,36,Guamalata
+155,36,La Chimba
+156,36,La Torre
+157,36,Lagunillas
+158,36,Las Sossas
+159,36,Limarí
+160,36,Nueva Aurora
+161,36,Oruro
+162,36,Ovalle
+163,36,Potrerillo Bajo
+164,36,Potrerillos Altos
+165,36,Recoleta
+166,36,San Julián
+167,36,Santa Cristina
+168,36,Sotaquí
+169,36,Tabalí
+170,36,Trapiche
+171,36,Villaseca
+172,37,Cogotí Dieciocho
+173,37,Combarbalá
+174,37,Combarbalá Oriente
+175,37,La Ligua
+176,38,Carén
+177,38,Cerrillos de Rapel
+178,38,Chañaral Alto
+179,38,Chilecito
+180,38,Colliguay
+181,38,El Palqui
+182,38,Flor del Valle
+183,38,Guanaqueros
+184,38,Guanillas
+185,38,Juntas
+186,38,La Cisterna
+187,38,Los Molles
+188,38,Los Tapia
+189,38,Mialqui
+190,38,Monte Patria
+191,38,Monte Patria
+192,38,Rapel
+193,39,Punitaqui
+194,40,El Chañar
+195,40,El Espinal de San Pedro
+196,40,Hurtado
+197,40,Las Breas
+198,40,Pichasca
+199,40,Río Hurtado
+200,40,Samo Alto
+201,40,Serón
+202,40,Tabaqueros
+203,41,Laguna Verde
+204,41,Placilla
+205,41,Valparaíso
+206,42,Casablanca
+207,42,La Playa
+208,42,La Viñita
+209,42,Lagunillas
+210,42,Lo Orozco
+211,42,Lo Vásquez
+212,42,Paso Hondo
+213,42,Quintay
+214,43,Concón
+215,44,Juan Fernández
+216,45,Campiche
+217,45,Las Ventanas
+218,45,Puchuncaví
+219,46,Quintero
+220,47,Viña del Mar
+221,48,Isla de Pascua
+222,49,El Sauce
+223,49,Las Vizcachas
+224,49,Los Andes
+225,49,Los Villares
+226,49,San Rafael
+227,50,Calle Larga
+228,50,El Patagual
+229,50,Paso Basaure
+230,50,Pocuro
+231,50,San Vicente
+232,50,Villa Alegre
+233,51,Auco
+234,51,Rinconada
+235,52,El Higueral
+236,52,Lo Calvo
+237,52,San Esteban
+238,53,El Carmen
+239,53,El Escorial
+240,53,Guaquén
+241,53,La Canela
+242,53,La Higuera
+243,53,La Ligua
+244,53,Longotoma
+245,53,Los Romeros
+246,53,Pichicuy
+247,53,Pichilemu
+248,53,Placilla
+249,53,Quebradilla
+250,53,Quinquimo
+251,53,Santa María
+252,53,Valle Hermoso
+253,54,Alicahue
+254,54,Artificio
+255,54,Cabildo
+256,54,La Vega
+257,54,La Viña
+258,54,Los Molinos
+259,54,Paihuén
+260,54,San José
+261,54,San Lorenzo
+262,55,Las Salinas de Pullalli
+263,55,Papudo
+264,55,Pullalli
+265,56,Chalaco
+266,56,Chincolco
+267,56,El Sobrante
+268,56,El Valle
+269,56,Hierro Viejo
+270,56,Manuel Montt
+271,56,Pedegua
+272,56,Petorca
+273,56,Santa Julia
+274,57,Catapilco
+275,57,El Blanquillo
+276,57,La Laguna
+277,57,Zapallar
+278,58,La Capilla
+279,58,La Palma
+280,58,Manzanar
+281,58,Quillota
+282,58,San Isidro
+283,58,San Pedro
+284,58,Santa Olivia
+285,59,Calera
+286,59,El Olivo
+287,59,Pachacama
+288,60,Chépica
+289,60,El Olivo
+290,60,El Retiro
+291,60,Hijuelas
+292,60,La Sombra
+293,60,Los Aromos de Purehue
+294,60,Ocoa
+295,61,La Cruz
+296,61,Lo Rojas
+297,61,Pocochay
+298,62,El Melón
+299,62,La Peña
+300,62,Nogales
+301,63,San Antonio
+302,63,San Juan
+303,64,Algarrobo
+304,64,El Yeco
+305,65,Cartagena
+306,65,El Quisco
+307,65,El Totoral
+308,65,Lo Abarca
+309,65,Lo Zárate
+310,66,El Quisco
+311,67,El Tabo
+312,68,El Convento
+313,68,Santo Domingo
+314,69,Algarrobal
+315,69,Barrancas
+316,69,Bellavista
+317,69,Bucalemu
+318,69,El Asiento
+319,69,Los villares
+320,69,San Felipe
+321,69,San Rafael
+322,69,Tierras Blancas
+323,69,Veintiuno de Mayo
+324,70,Catemu
+325,70,El Cobre
+326,70,El Ñilhue
+327,70,La Colonia
+328,70,Las Varillas
+329,70,Los Cerrillos
+330,70,Reinoso
+331,70,San José
+332,71,El Porvenir
+333,71,La Estancilla
+334,71,Las Palmas
+335,71,Las Peñas
+336,71,Las Vegas
+337,71,Llaillay
+338,71,Llaillay
+339,71,Los Loros
+340,71,Santa Teresa
+341,72,El Escorial
+342,72,Lo Campo
+343,72,Palomar
+344,72,Panquehue
+345,72,San Roque
+346,72,Viña Errázuriz
+347,73,El Tártaro
+348,73,Granalla
+349,73,Guzmanez
+350,73,Las Coimas
+351,73,Lo Vicuña
+352,73,Piguchén
+353,73,Putaendo
+354,73,Quebrada de herrera
+355,73,Rinconada de Sliva
+356,74,Calle del Medio
+357,74,El Llano
+358,74,El Pino
+359,74,Jahuel
+360,74,Las Cabras
+361,74,Santa María
+362,75,Colliguay
+363,75,Los Molles
+364,75,Los Quillayes
+365,75,Quilpué
+366,76,El Bosque
+367,76,La Victoria
+368,76,Las Cruces
+369,76,Limache
+370,76,Lo Gamboa
+371,76,Los Leones
+372,76,Santa Rosa
+373,76,Tobolango
+374,76,Trinidad
+375,77,La Dormida
+376,77,La Vega
+377,77,Las Palmas
+378,77,Olmué
+379,77,Quebrada Alvarado
+380,78,Quebrada Escobares
+381,78,Villa Alemana
+382,79,Chancón
+383,79,La Gonzalina
+384,79,La Moranina
+385,79,Punta de Cortés
+386,79,Rancagua
+387,79,San Ramón
+388,79,Tuniche
+389,80,Callejones
+390,80,Codegua
+391,80,El Romeral
+392,80,Isla Norte
+393,80,La Blanquina
+394,80,La Morera
+395,80,Miraflores
+396,81,Chilehue
+397,81,Coinco
+398,81,Copequén Sur
+399,81,El Rulo
+400,82,Cancha El Almendro
+401,82,Coltauco
+402,82,El Almendro
+403,82,Hijuela del Medio
+404,82,Lo de Cuevas
+405,82,Lo Ulloa
+406,82,Loreto-Molino
+407,82,Monte Grande
+408,82,Parral
+409,82,Purén
+410,82,Rinconada de Parral
+411,82,Viña La Cruz
+412,83,Cerrillos Norte
+413,83,Doñihue
+414,83,Lo Miranda
+415,83,Rinconada de Florida
+416,84,Graneros
+417,84,La Compañía
+418,84,Nuevos Campos
+419,85,Cocalán
+420,85,El Durazno
+421,85,El Durazno Chico
+422,85,El Estero
+423,85,Las Cabras
+424,85,Quilicura
+425,85,Santa Eugenia
+426,85,Santa Inés
+427,85,Santa Julia
+428,85,Valdebenito
+429,86,Coya
+430,86,Machalí
+431,86,San Joaquín
+432,87,Cantarrana
+433,87,Caracoles
+434,87,Corcolén
+435,87,Limahue
+436,87,Los Maquis
+437,87,Malloa
+438,87,Panquehue
+439,87,Pelequén
+440,87,Pelequén Viejo
+441,87,Puntilla de Panquehue
+442,87,Sal Si Puedes
+443,88,La Punta
+444,88,La Samuelina
+445,88,Mostazal
+446,88,O'Higgins de Pilai
+447,88,Picarquín
+448,88,San Francisco de Moztazal
+449,89,El Olivar
+450,89,Gultro
+451,89,Olivar
+452,89,Olivar Alto
+453,89,Olivar Bajo
+454,90,Concha y Toro
+455,90,La Rosa
+456,90,Peumo
+457,90,Rosario Codao
+458,91,El Toco
+459,91,Lo Argentina
+460,91,Los Romos
+461,91,Mal Paso Larmahue
+462,91,Pataguas Cerro
+463,91,Pataguas Orilla
+464,91,Pichidegua
+465,91,San José de Marchihue
+466,92,Alto del Río
+467,92,El Guapi
+468,92,Guacarhue
+469,92,La Estacada
+470,92,La Viña
+471,92,Puente Alta
+472,92,Quinta de Tilcoco
+473,92,Rinconada
+474,93,Apalta
+475,93,Chanqueahue
+476,93,Cóbil
+477,93,El Sauce
+478,93,Esmeralda
+479,93,La Chimba
+480,93,Las Pataguas
+481,93,Lo Cartagena
+482,93,Lo de Lobo
+483,93,Los Choapinos
+484,93,Los Gomeros
+485,93,Malambo
+486,93,Naicura
+487,93,Pueblo Hundido
+488,93,Rengo
+489,93,Rosario
+490,93,San Jorge
+491,93,Santa Isabel
+492,93,Valle Hermoso
+493,94,Chumaco
+494,94,Club de Campo
+495,94,El Abra
+496,94,El Quillay
+497,94,El Vaticano
+498,94,Las Cabras
+499,94,Los Lirios
+500,94,Pichiguao
+501,94,Pimpinela
+502,94,Requínoa
+503,94,Santa Amalia
+504,94,Totihue
+505,95,El Manzano
+506,95,El Naranjal
+507,95,El Niche
+508,95,El Tambo
+509,95,La Laguna
+510,95,La Orilla de Pencahue
+511,95,La Vinilla
+512,95,Pencahue Abajo
+513,95,Pencahue Central
+514,95,Pumaitén
+515,95,Rastrojos
+516,95,Romeral
+517,95,San Vicente
+518,95,San Vicente de Taguatagua
+519,95,Taguatagua
+520,95,Toquigua
+521,95,Tunca Abajo
+522,95,Tunca Arriba
+523,95,Tunca del Medio
+524,95,tunca el Molino
+525,95,Zúñiga
+526,96,Pichilemu
+527,97,La Estrella
+528,97,Recinto Militar
+529,98,Litueche
+530,98,Quelentaro
+531,99,Alcones
+532,99,La Esperanza
+533,99,Marchigue
+534,99,Trinidad
+535,100,La Boca
+536,100,Licancheu
+537,100,Navidad
+538,100,Rapel
+539,101,Bucalemu
+540,101,La Población
+541,101,Paredones
+542,102,Agua Buena
+543,102,Angostura
+544,102,Isla de Briones
+545,102,La Marinana
+546,102,La Paloma
+547,102,Las Rosas de Antivero
+548,102,Los Lingues
+549,102,Pedehue
+550,102,Polonia
+551,102,Roma Arriba
+552,102,Roma de San José de los Lingues
+553,102,San Fernando
+554,102,Talcarehue
+555,102,Trapiche
+556,103,Auquinco
+557,103,Chépica
+558,103,El Cuadro
+559,103,La Mina
+560,103,Las Alamedas
+561,103,Las Arañas
+562,103,Las Mercedes
+563,103,las Rinconadas
+564,103,Paredones de Auquinco
+565,104,Chimbarongo
+566,104,Codegua
+567,104,Colonia de Quinta
+568,104,Cuesta Lo González
+569,104,El Carrizal
+570,104,El Perejil
+571,104,Huemul
+572,104,La Lucana
+573,104,Peor Es Nada
+574,104,Quicharco
+575,104,San Enrique
+576,104,San Juan de la Sierra
+577,104,Santa Valentina
+578,104,Tierra Blanca
+579,104,Tinguiririca
+580,104,Tres Puentes
+581,105,La Vega
+582,105,Lolol
+583,105,Nilahue
+584,106,Chacarilla
+585,106,Cunaco
+586,106,El Carmen
+587,106,El Maitén
+588,106,Los Callejones
+589,106,Nancagua
+590,106,Puquillay Alto
+591,106,Puquillay Bajo
+592,106,San Gregorio
+593,106,Yáquil
+594,107,Agua Santa
+595,107,Las Majadas
+596,107,Los Olmos
+597,107,Palmilla
+598,107,Pupilla
+599,107,Rinconada de Palmilla
+600,107,San José del Carmen
+601,107,Talhuén
+602,108,Calleuque
+603,108,El Barco
+604,108,Lihueimo
+605,108,Peraillo
+606,108,Población
+607,108,Puquillay
+608,108,Santa Victoria
+609,109,La Dehesa
+610,109,La Tuna
+611,109,Lo Moscoso
+612,109,Placilla
+613,109,Rinconada de Manantiales
+614,109,San José de Peñuelas
+615,109,San Luis
+616,109,Taulemu
+617,109,Villa Alegre
+618,110,El Rincón
+619,110,Nilahue Cornejo
+620,110,Pumanque
+621,111,Chomedahue
+622,111,El Guindo
+623,111,Isla de Yáquil
+624,111,Isla del Guindo
+625,111,La Lajuela
+626,111,Los Boldos
+627,111,Paso de los Reyes
+628,111,Quinahue
+629,111,Quinahue el Boldal
+630,111,Rincón de Yáquil
+631,111,Santa Cruz
+632,111,Uva Blanca
+633,112,Aurora
+634,112,El Oriente
+635,112,El Porvenir
+636,112,Huilquilemu
+637,112,Lircay
+638,112,Palmira
+639,112,Panguilemo
+640,112,Purísima
+641,112,Santa Marta
+642,112,Talca
+643,113,Carrizal Norte
+644,113,Coipué
+645,113,Constitución
+646,113,Junquillar
+647,113,Las Cañas
+648,113,Los Pellines
+649,113,Puertas Verdes
+650,113,Putú
+651,113,San Ramón
+652,113,Santa Olga
+653,113,Viñales
+654,114,Calpún
+655,114,Constantué
+656,114,Curepto
+657,114,Docam´vida
+658,114,Gualleco
+659,114,Guaquén
+660,114,Hornillos
+661,114,Huelón
+662,114,La Orilla
+663,114,Tabunco
+664,115,Empredrado
+665,115,La Orilla
+666,115,Puico Alto
+667,116,Barros Negros
+668,116,Callejones
+669,116,Chacarillas
+670,116,Colín
+671,116,Duao
+672,116,El Canelo
+673,116,Maule
+674,116,Maule Sur
+675,116,Numpay
+676,116,Pirque
+677,116,Pueblecillo
+678,116,Quiñipeumo
+679,116,Santa Rosa de Lavadero
+680,116,Talca
+681,116,Unihue
+682,117,El Manzano
+683,117,Lagunillas
+684,117,Lihueno
+685,117,Lo Patricio
+686,117,Pelarco
+687,117,Santa Rita
+688,118,Batuco
+689,118,Botalcura
+690,118,Caupolicán
+691,118,Corinto
+692,118,El Estero
+693,118,Las Doscientas
+694,118,Libún
+695,118,Lo Figueroa
+696,118,Pencahue
+697,119,Bellavista
+698,119,Cumpeo
+699,119,El Aromo
+700,119,El Bolsico
+701,119,El Guindo
+702,119,La Chispa
+703,119,Las Mercedes
+704,119,Los Montes
+705,119,Los Robles
+706,119,Maitenes
+707,119,Odessa
+708,119,Paso Ancho
+709,119,Peñaflor Nuevo
+710,119,Peñaflor Viejo
+711,119,Porvenir
+712,119,Río Claro
+713,119,San Enrique
+714,119,San Gerardo
+715,119,Santa Lucía
+716,119,Santa Rosa
+717,120,Aurora
+718,120,Bajos de Lircay
+719,120,Bella Unión
+720,120,Bramadero
+721,120,Carretones
+722,120,Chequén
+723,120,Corel
+724,120,Corralones
+725,120,El Almendro
+726,120,El Colorado
+727,120,Flor del Llano
+728,120,La Calor
+729,120,La Isla
+730,120,Las Lonas
+731,120,Los Montes
+732,120,Mariposas
+733,120,Paso Nevado
+734,120,Peumo Negro
+735,120,Punta de Diamante
+736,120,Quebrada de Agua
+737,120,Queri
+738,120,San Clemente
+739,120,San Diego
+740,120,San Francisco
+741,120,San Manuel
+742,120,Santa Elena
+743,120,Tres Esquinas
+744,120,Vilches Alto
+745,120,Vilches Bajo
+746,121,Alto Pangue
+747,121,El Milagro
+748,121,Las Paredes
+749,121,Pangue Abajo
+750,121,Pangue Arriba
+751,121,Panguilemito
+752,121,San Rafael
+753,122,Cabrería
+754,122,Cauquenes
+755,122,Coronel de Maule
+756,122,Ilochegua
+757,122,Porongo
+758,122,Quella
+759,122,Santa Sofía
+760,122,Tabolguén
+761,123,Carreras Cortas
+762,123,Chanco
+763,123,Chanco Norte
+764,123,Chanco Sur
+765,123,La Vega
+766,123,Loanco
+767,123,Pahuil
+768,123,Polhuín
+769,124,Covellén
+770,124,Las Canchas
+771,124,Pelluhue
+772,124,Peuño
+773,124,Quinta Chile
+774,125,Convento Viejo
+775,125,Curicó
+776,125,El Prado
+777,125,Isla de Marchant
+778,125,La Obra
+779,125,Los Castaños
+780,125,Los Cristales
+781,125,Los Guindos
+782,125,Los Niches
+783,125,Maquegua
+784,125,Rauquén Campo
+785,125,Sarmiento
+786,125,Tutuquén Alto
+787,125,Tutuquén Bajo
+788,125,Upeo
+789,125,Zapallar
+790,126,Hualañé
+791,126,La Huerta
+792,126,Mira Rio
+793,126,Peraillo
+794,127,Duao
+795,127,Guiapi
+796,127,Iloca
+797,127,Licantén
+798,127,Lora
+799,127,Placilla
+800,128,Bajo Los Romeros
+801,128,Buena Paz
+802,128,Buena Unión
+803,128,Entre Ríos
+804,128,Itahue
+805,128,Lontué Norte
+806,128,Molina
+807,128,Pichingal
+808,128,Puente Alto
+809,128,San Jorge de Romeral
+810,128,Tres Esquinas
+811,129,El Corazón
+812,129,El Llano
+813,129,El Plumero
+814,129,Majadilla
+815,129,Paiquibudi
+816,129,Quilpoco
+817,129,Rauco
+818,129,Trapiche
+819,129,Tricao
+820,130,El Boldal
+821,130,Guaico
+822,130,Guaico Bajo
+823,130,Guaico no
+824,130,Guaico Tres
+825,130,La Unión
+826,130,Longitudinal
+827,130,Los Queñes
+828,130,Quilvo Alto
+829,130,Quilvo Bajo
+830,130,Romeral
+831,130,Romeral Bajo - La Quinta
+832,131,Cerrillos
+833,131,Colín
+834,131,La Higuerilla
+835,131,La Isla
+836,131,Lo Valdivia
+837,131,Los Quillayes
+838,131,Peteroa
+839,131,Requingua
+840,131,Sagrada Familia
+841,131,Santa Emilia
+842,131,Santa Rosa
+843,131,Trapiche
+844,131,Villa Prat
+845,132,Comalle
+846,132,Domingo Mansilla
+847,132,El Cisne
+848,132,El Quelmén
+849,132,Hacienda Teno
+850,132,La Laguna
+851,132,La Vizcaya
+852,132,Las Arboledas
+853,132,Las Liras
+854,132,Monterilla
+855,132,Morza
+856,132,Piedra Blanca
+857,132,San León
+858,132,San Rafael
+859,132,Santa Rebeca
+860,132,Santa Susana
+861,132,Teniente Cruz
+862,132,Teno
+863,132,Viluco
+864,133,Aquelarre
+865,133,Lago Vichuquén
+866,133,Lipimávida
+867,133,Llico
+868,133,Vichuquén
+869,134,Guadantún
+870,134,Guapi
+871,134,Linares
+872,134,Llancanao
+873,134,Los Batros
+874,134,Maitenes
+875,134,Pamilla
+876,134,Puente Alto
+877,134,San Antonio
+878,134,San Antonio Encina
+879,134,San Victor Álamos
+880,134,Vara Gruesa
+881,135,Basáez
+882,135,Capilla Palacios
+883,135,Colbún
+884,135,Lomas de Putagán
+885,135,Maule Sur
+886,135,Panamávida
+887,135,Paso Rari
+888,135,Quinamávida
+889,135,Rari
+890,135,Rincón de Pataguas
+891,135,San Dionisio
+892,135,San Francisco de Rari
+893,135,San Nicolás
+894,135,San Rafael
+895,136,La Aguada
+896,136,La Cuarta
+897,136,La Granja
+898,136,La Puntilla
+899,136,La Quinta Norte
+900,136,La Quinta Sur
+901,136,La Tercera
+902,136,Las Motas
+903,136,Lomas de Polcura
+904,136,Longaví
+905,136,Los Cristales
+906,136,Mesamávida
+907,136,Miraflores
+908,136,Paso Cuñao
+909,136,Rincón de Zúíga
+910,136,San José
+911,136,San Luis
+912,137,Bajos de Huenutil
+913,137,La Gloria
+914,137,La Orilla
+915,137,Los Carros
+916,137,Palma Rosa
+917,137,Parral
+918,137,Quinchamávida
+919,137,Remulcao
+920,137,San Alejo
+921,137,Talquita
+922,138,Ajial
+923,138,Copihue
+924,138,las Rosas
+925,138,Los Robles
+926,138,Maitenes
+927,138,Piguchén
+928,138,Retiro
+929,138,San Isidro
+930,139,Alquihue
+931,139,Caliboro
+932,139,Calle Larga
+933,139,El Paso
+934,139,Melozal
+935,139,Mingre
+936,139,Nirvilo
+937,139,Orilla de Maule - Santa Natalia
+938,139,Pangal
+939,139,Puente Pando
+940,139,Ranchillos
+941,139,San Baldomero
+942,139,San Javier
+943,139,San Manuel
+944,139,Santa Cecilia
+945,139,Vaquería
+946,140,Cunaco Chico
+947,140,El Sauce - Calle Larga
+948,140,Esperanza
+949,140,Estación Villa Alegre
+950,140,Guiones
+951,140,La Finca
+952,140,Lagunillas
+953,140,Loma de Las Tortillas
+954,140,Loncomilla
+955,140,Monte Grande
+956,140,Peñuelas
+957,140,Putagán
+958,140,San Manuel
+959,140,Villa Alegre
+960,141,Abránquil
+961,141,Bajo Esperalda
+962,141,Challacura
+963,141,Coironal
+964,141,Esperanza
+965,141,Flor Oriente
+966,141,Gumera
+967,141,Llano Blanco
+968,141,Los Púquios
+969,141,Maitencillo
+970,141,Orilla de Maule - Santa Natalia
+971,141,Peñuelas
+972,141,San Juan
+973,141,Santa Ana de Queri
+974,141,Santa Elena
+975,141,Semillero
+976,141,Yerbas Buenas
+977,142,Agua de la Gloria
+978,142,Chaimávida
+979,142,Concepción
+980,142,El Pino
+981,143,Coronel
+982,143,El Patagual
+983,144,Chiguayante
+984,145,Florida
+985,145,Rahuil
+986,146,Hualqui
+987,146,Quilacoya
+988,146,Talcamávida
+989,146,Unihue
+990,147,Colcura
+991,147,Lota
+992,148,Penco
+993,149,San Pedro de la Paz
+994,150,Santa Juana
+995,151,Talcahuano
+996,151,Tumbes
+997,152,Dichato
+998,152,Loicura
+999,152,Meque
+1000,152,Punta de Parra
+1001,152,Rafael
+1002,152,Tomé
+1003,153,Hualpén
+1004,153,Lenga
+1005,154,Lebu
+1006,154,Pehuén
+1007,154,Santa Rosa
+1008,155,Arauco
+1009,155,Carampangue
+1010,155,Horcones
+1011,155,Laraquete
+1012,155,Punta Lavapié
+1013,155,Ramadillas
+1014,155,Tubul
+1015,156,Antiquina
+1016,156,Cañete
+1017,156,Guape
+1018,156,Huentelolén
+1019,156,Lanalhue
+1020,156,Pangueco
+1021,156,Ponotro
+1022,157,Calebu
+1023,157,Contulmo
+1024,158,Curanilahue
+1025,159,Antiguala
+1026,159,Los Álamos
+1027,159,Los Ríos
+1028,159,Pangue
+1029,159,Sara de Lebu
+1030,160,Quidico
+1031,160,San Ramóm
+1032,160,Tirúa
+1033,160,Tranaquepe
+1034,161,Candelaria
+1035,161,Chacayal Norte
+1036,161,Chacayal Sur
+1037,161,Coyanco
+1038,161,Cuñibal
+1039,161,Duqueco
+1040,161,Duqueco Sur
+1041,161,El Morro
+1042,161,El Peral
+1043,161,Guaquil Central
+1044,161,La Perla
+1045,161,Laguna Verde
+1046,161,Llano Blanco
+1047,161,Los Ángeles
+1048,161,Luanco
+1049,161,Millantú
+1050,161,Mortandad
+1051,161,Natre Rarinco
+1052,161,Paillihue
+1053,161,Paraguay
+1054,161,Pata de Gallina
+1055,161,Pedregal
+1056,161,Quilque
+1057,161,San Carlos de Purén
+1058,161,San Gerardo
+1059,161,San José
+1060,161,Santa Clara
+1061,161,Santa Fe
+1062,161,Tolpán
+1063,161,Virquenco
+1064,162,Antuco
+1065,162,Mirrihue
+1066,162,Villa Las Rosas
+1067,163,Cabrero
+1068,163,Charrúa
+1069,163,Charrúa Sur
+1070,163,Colicheu
+1071,163,Colonia Monte Águila
+1072,163,Monte Águila
+1073,163,Salto del Laja
+1074,164,Chorrillos
+1075,164,Laja
+1076,164,Las Ciénagas
+1077,164,Las Playas
+1078,164,Puente Perales
+1079,164,Quelenquelén
+1080,164,Quiebrafrenos
+1081,164,Rucalhue
+1082,164,Santa Ana
+1083,164,Villa Laja
+1084,165,Bureo
+1085,165,Mulchén
+1086,165,Munilque Isaurieta
+1087,166,Nacimiento
+1088,167,Coihue
+1089,167,Graneros
+1090,167,Negrete
+1091,167,Rihue
+1092,168,Quilaco
+1093,169,Canteras
+1094,169,Quilleco
+1095,169,Villa Mercedes
+1096,170,San Rosendo
+1097,171,Los Boldos
+1098,171,Santa Bárbara
+1099,171,Villocura
+1100,172,Huépil
+1101,172,Huépil Alto
+1102,172,Huequete
+1103,172,Las Lomas
+1104,172,Polcura
+1105,172,Tucapel
+1106,173,Cambrales
+1107,173,Choihue
+1108,173,Estación Yumbel
+1109,173,La Aguada
+1110,173,Las Nieves
+1111,173,Río Claro
+1112,173,Yumbel
+1113,174,Alto Biobío
+1114,174,Ralco
+1115,174,Ralco Lepoy
+1116,174,Trapatrapa
+1117,175,Labranza
+1118,175,Temuco
+1119,176,Carahue
+1120,176,Nehuentúe
+1121,177,Cunco
+1122,178,Catripulli
+1123,178,Curarrehue
+1124,179,Freire
+1125,179,Quepe
+1126,180,Galvarino
+1127,181,Gorbea
+1128,181,Lastarria
+1129,182,Dollinco
+1130,182,Lautaro
+1131,182,Pillanlelbún
+1132,183,Loncoche
+1133,184,Melipeuco
+1134,185,Nueva Imperial
+1135,186,Metrenco
+1136,186,Padre las Casas
+1137,187,Perquenco
+1138,188,Pitrufquén
+1139,189,Pucón
+1140,190,Isla Guapi
+1141,190,Puerto Saavedra
+1142,190,Saavedra
+1143,191,Gualpín
+1144,191,Teodoro Schmidt
+1145,192,Nueva Toltén
+1146,192,Toltén
+1147,193,Cherquenco
+1148,193,Vilcún
+1149,194,Licán Ray
+1150,194,Villarrica
+1151,195,Cholchol
+1152,196,Angol
+1153,197,Collipulli
+1154,198,Curacautín
+1155,198,Malalcahuello
+1156,199,Ercilla
+1157,200,Icalma
+1158,200,Liucura
+1159,200,Lonquimay
+1160,201,Los Sauces
+1161,202,Capitán Pastene
+1162,202,Lumaco
+1163,203,Purén
+1164,204,Renaico
+1165,205,Traiguén
+1166,206,Pailahueque
+1167,206,Selva Oscura
+1168,206,Victoria
+1169,207,Alerce
+1170,207,Chamiza
+1171,207,Chinquihue
+1172,207,Correntoso
+1173,207,Isla Tenglo
+1174,207,La Arena
+1175,207,Lenca
+1176,207,Metri
+1177,207,Piedra Azul
+1178,207,Puerto Montt
+1179,207,Quillaipe
+1180,208,Calbuco
+1181,208,Pargua
+1182,209,Cochamé
+1183,209,Cochamó
+1184,209,Pocoihuen
+1185,209,Puelo Bajo
+1186,210,Fresia
+1187,210,Tegualda
+1188,211,Frutillar
+1189,212,Cañitas
+1190,212,Los Muermos
+1191,212,Río Frío
+1192,213,Llanquihue
+1193,214,Carelmapu
+1194,214,Maullín
+1195,215,Colonia Río Sur
+1196,215,Ensenada
+1197,215,Nueva Braunau
+1198,215,Puerto Varas
+1199,215,Ralún
+1200,216,Castro
+1201,217,Ancud
+1202,218,Chonchi
+1203,219,Curaco de Vélez
+1204,220,Dalcahue
+1205,221,Puqueldón
+1206,222,Queilén
+1207,223,Quellón
+1208,224,Quemchi
+1209,225,Quinchao
+1210,226,Osorno
+1211,227,Las Cascadas
+1212,227,Puerto Octay
+1213,228,Crucero
+1214,228,Purranque
+1215,229,Entre Lagos
+1216,229,Pilmaiquén
+1217,229,Puyehue
+1218,230,El Bolsón
+1219,230,Riachuelo
+1220,230,Río Negro
+1221,231,Bahía Mansa
+1222,231,Maicolpué
+1223,231,Puaucho
+1224,231,Pucatrihue
+1225,231,San Juan de la Costa
+1226,232,San Pablo
+1227,233,Chaitén
+1228,234,Futaleufú
+1229,235,Contao
+1230,235,Hualaihué
+1231,236,Palena
+1232,237,Balmaceda
+1233,237,Coihaique
+1234,237,El Blanco
+1235,238,Lago Verde
+1236,239,Aisén
+1237,239,Caleta Andrade
+1238,239,Mañiguales
+1239,239,Puerto Aguirre
+1240,240,Cisnes
+1241,240,La Junta
+1242,240,Puerto Cisnes
+1243,240,Puyuguapi
+1244,240,Raúl Marín Balmaceda
+1245,241,Guaitecas
+1246,241,Puerto Melinka
+1247,242,Cochrane
+1248,243,O'Higgins
+1249,243,Villa O'Higgins
+1250,244,Tortel
+1251,245,Chile Chico
+1252,245,Puerto Bertrand
+1253,245,Puerto Guadal
+1254,246,Bahía Murta
+1255,246,Cerro Castillo
+1256,246,Puerto Ibáñez
+1257,246,Puerto Río Tranquilo
+1258,246,Río Ibañez
+1259,247,Agua Fresca
+1260,247,Barranco Amarillo
+1261,247,Leñadura
+1262,247,Pampa Redonda
+1263,247,Punta Arenas
+1264,247,Río de Las Minas
+1265,247,Río de Los Ciervos
+1266,247,Río Seco
+1267,248,Laguna Blanca
+1268,248,Villa Tehuelches
+1269,249,Río Verde
+1270,250,Punta Delgada
+1271,250,San Gregorio
+1272,251,Cabo de Hornos
+1273,251,Pampa Guanaco
+1274,251,Puerto Williams
+1275,252,Antártica
+1276,253,Porvenir
+1277,254,Cerro Sombrero
+1278,254,Primavera
+1279,255,Cameron
+1280,255,Timaukel
+1281,256,Dorotea
+1282,256,Natales
+1283,256,Puerto Edén
+1284,257,Cerro Castillo
+1285,257,Cerro Guido
+1286,257,Torres del Paine
+1287,258,Santiago
+1288,259,Cerrillos
+1289,260,Cerro Navia
+1290,261,Conchalí
+1291,262,El Bosque
+1292,263,Estación Central
+1293,264,Huechuraba
+1294,265,Independencia
+1295,266,La Cisterna
+1296,267,La Florida
+1297,268,La Granja
+1298,269,La Pintana
+1299,270,La Reina
+1300,271,Las Condes
+1301,272,Lo Barnechea
+1302,273,Lo Espejo
+1303,274,Lo Prado
+1304,275,Macul
+1305,276,La Farfana
+1306,276,Maipú
+1307,277,Ñuñoa
+1308,278,Pedro Aguirre Cerda
+1309,279,Peñalolén
+1310,280,Providencia
+1311,281,Noviciado
+1312,281,Pudahuel
+1313,282,Quilicura
+1314,283,Quinta Normal
+1315,284,Recoleta
+1316,285,Renca
+1317,286,San Joaquín
+1318,287,San Miguel
+1319,288,San Ramón
+1320,289,Vitacura
+1321,290,Puente Alto
+1322,291,Pirque
+1323,291,Santa Rita
+1324,292,El Manzano
+1325,292,San Alfonso
+1326,292,San José de Maipo
+1327,293,Chacabuco
+1328,293,Colina
+1329,293,El Colorado
+1330,293,Las Canteras
+1331,293,Lo Arcaya
+1332,294,Batuco
+1333,294,Lampa
+1334,295,Huertos Familiares
+1335,295,Polpaico
+1336,295,Tiltil
+1337,296,San Bernardo
+1338,297,Alto Jahuel
+1339,297,Buin
+1340,297,Viluco
+1341,298,Bajos de San Agustín
+1342,298,Calera de Tango
+1343,299,Champa
+1344,299,Hospital
+1345,299,Huelquén
+1346,299,Paine
+1347,299,Pintué
+1348,300,Bollenar
+1349,300,Culiprán
+1350,300,Melipilla
+1351,300,Pomaire
+1352,300,Puangue
+1353,300,Tantehue
+1354,301,Alhué
+1355,301,Villa Alhué
+1356,302,Cerrillos
+1357,302,Curacaví
+1358,303,María Pinto
+1359,304,Isla de Maipo
+1360,304,La Islita
+1361,304,Loica Abajo
+1362,304,Naltagua
+1363,304,San Pedro
+1364,305,Talagante
+1365,306,El Monte
+1366,307,Isla de Maipo
+1367,308,Padre Hurtado
+1368,309,El Roto Chileno
+1369,309,Malloco
+1370,309,Peñaflor
+1371,310,Arique
+1372,310,Cayumapu
+1373,310,Huellehue
+1374,310,Llancahue
+1375,310,Los Molinos
+1376,310,Los Pellines
+1377,310,Molco
+1378,310,Niebla
+1379,310,Paillao
+1380,310,Pishuinco
+1381,310,Punucapa
+1382,310,Quitaqui
+1383,310,Valdivia
+1384,311,Chaihuín
+1385,311,Corral
+1386,311,Guape
+1387,311,Isla del Rey
+1388,312,Antihue
+1389,312,Aylin
+1390,312,Imulfudi
+1391,312,Lanco
+1392,312,Lumaco
+1393,312,Malahue
+1394,312,Panguinilahue
+1395,312,Puquiñe
+1396,312,Purulón
+1397,312,Quilche
+1398,313,Andwanter Pancul
+1399,313,Antihue
+1400,313,Collico
+1401,313,El Salto
+1402,313,Folilco
+1403,313,La Pellinada
+1404,313,Lipingue
+1405,313,Los Lagos
+1406,313,Malihue
+1407,313,Pichihue
+1408,313,Pucará
+1409,313,Quilquilco
+1410,314,Folilco
+1411,314,Máfil
+1412,314,Pupnahue
+1413,314,Runca
+1414,314,San Pedro
+1415,315,Estación Mariquina
+1416,315,Linguento
+1417,315,Mariquina
+1418,315,Mehuín
+1419,315,Puringue Rico
+1420,315,San José de la Mariquina
+1421,316,El Llolly
+1422,316,Itropulli
+1423,316,Paillaco
+1424,316,Pichiquema
+1425,316,Pichirropulli
+1426,316,Reumén
+1427,317,Bocatoma
+1428,317,Carirriñe
+1429,317,Choshuenco
+1430,317,Coñaripe
+1431,317,Dollinco
+1432,317,Huellahue
+1433,317,Lago Neltume
+1434,317,Linda Flor
+1435,317,Linquiñe
+1436,317,Los Tallos
+1437,317,Malchehue
+1438,317,Melefquén
+1439,317,Neltume
+1440,317,Ñancul
+1441,317,Panguilelfún
+1442,317,Panguipulli
+1443,317,Pelehue
+1444,317,Pilinhue
+1445,317,Pitrén
+1446,317,Pocura
+1447,317,Posdahue
+1448,317,Puerto Fuy
+1449,317,Punahue
+1450,317,Puyehue
+1451,317,Relín
+1452,317,Reyehueico
+1453,317,Traitraico
+1454,317,Tralcapulli
+1455,318,Auquinco
+1456,318,Choroico
+1457,318,La Unión
+1458,318,Los Conales
+1459,318,Puerto Nuevo
+1460,318,Rofuco
+1461,318,San Javier
+1462,319,Caunahue
+1463,319,Coique
+1464,319,Dollinco
+1465,319,Futrono
+1466,319,Futrono
+1467,319,Llifén
+1468,320,Illihue
+1469,320,Lago Ranco
+1470,320,Pitriuco
+1471,320,Quillín
+1472,321,Cachillahue
+1473,321,Carimallín
+1474,321,Champulli
+1475,321,Crucero
+1476,321,Filuco
+1477,321,Futahuente
+1478,321,Litrán
+1479,321,Mantihue
+1480,321,Rio Bueno
+1481,321,Rucatayo
+1482,321,Tiqueco
+1483,321,Trapi
+1484,322,Arica
+1485,322,Gallinazos
+1486,322,Valle de Azapa
+1487,322,Valle de Chaca
+1488,322,Valle de Lluta
+1489,323,Camarones
+1490,323,Codpa
+1491,323,Cuya
+1492,324,Parinacota
+1493,324,Putre
+1494,324,Socoroma
+1495,325,General Lagos
+1496,325,Visviri
+1497,326,Buchupureo
+1498,326,Cobquecura
+1499,327,Coelemu
+1500,327,Guarilihue
+1501,327,Perales
+1502,327,Ranguelmo
+1503,327,Vegas de Itata
+1504,328,Gualte
+1505,328,La Gloria
+1506,328,Las Miras
+1507,328,Ninhue
+1508,328,Paque
+1509,328,Quirao
+1510,328,Reloca
+1511,328,San Gregorio
+1512,328,San Vicente
+1513,328,Zemita
+1514,329,Buenos Aires
+1515,329,Portezuelo
+1516,330,Quirihue
+1517,331,Nueva Aldea
+1518,331,Ñipas
+1519,331,Ránquil
+1520,331,San Ignacio de Palomares
+1521,332,Hernan Brañas
+1522,332,Treguaco
+1523,333,Bulnes
+1524,333,El Espinal
+1525,333,El Roble
+1526,333,Los Tilos
+1527,333,San Luis
+1528,333,Santa Clara
+1529,333,Santa Rosa
+1530,333,Tres Esquinas
+1531,334,Chillán Viejo
+1532,334,Rucapequén
+1533,335,Cato
+1534,335,Chillán
+1535,335,Colonia Bernardo O'Higgins
+1536,335,El Emboque
+1537,335,El Guape
+1538,335,La Victoria
+1539,335,Las Chilcas
+1540,335,Los Montes
+1541,335,Oro Verde
+1542,335,Quinchamalí
+1543,335,Santa Clara
+1544,335,Santa Cruz de Cuca
+1545,336,El Carmen
+1546,336,Maipo Bajo
+1547,336,Navidad
+1548,336,Puente Urrutia
+1549,336,San Isidro Bajo
+1550,336,San Vicente
+1551,337,Pemuco
+1552,337,San Pedro
+1553,338,El Chacay
+1554,338,El Ciruelito
+1555,338,El Rosal
+1556,338,Patagual
+1557,338,Pinto
+1558,338,Recinto Los Lleuques
+1559,338,Rosal Bajo
+1560,339,Coyanco
+1561,339,El Casino
+1562,339,El Culbén - La Quebrada
+1563,339,Guacamala
+1564,339,Queime
+1565,339,Quillón
+1566,340,Calle Alegre
+1567,340,Cantarrana
+1568,340,Coltón
+1569,340,Los Robles
+1570,340,Lourdes
+1571,340,Maylermo
+1572,340,Meco
+1573,340,Montaña Garay
+1574,340,Pueblo Seco
+1575,340,Quiriquina
+1576,340,San Antonio
+1577,340,San Ignacio
+1578,340,San Miguel
+1579,340,Santa Juana
+1580,341,Campanario
+1581,341,Ranchillo
+1582,341,Yungay
+1583,342,Bureo
+1584,342,Bustamante
+1585,342,Chillinhue
+1586,342,Coihueco
+1587,342,Coleal Norte
+1588,342,Culenar
+1589,342,El Carmen de Cato
+1590,342,Frutillares
+1591,342,Héroes de la Concepción
+1592,342,Las Pataguas
+1593,342,Miraflores
+1594,342,Niblinto
+1595,342,Paso Alejo
+1596,342,Roblería
+1597,342,Talquipén
+1598,342,Tanilvoro
+1599,343,Ñiquen
+1600,344,Agua Buena
+1601,344,Buli
+1602,344,El Sauce
+1603,344,Gaona
+1604,344,Llahuimávida
+1605,344,Menelhue
+1606,344,Millauquén
+1607,344,Monte Blanco
+1608,344,Muticura
+1609,344,Ninquihue
+1610,344,Pomuyeto
+1611,344,Puente Ñuble
+1612,344,Quilelto
+1613,344,Quinquegua
+1614,344,Rivera de Ñuble
+1615,344,San Camilo
+1616,344,San Carlos
+1617,344,San Miguel de Ablemo
+1618,344,Santa Rosa
+1619,345,San Fabián
+1620,345,Trabancura
+1621,346,Dadinco
+1622,346,El Manzano
+1623,346,Puente Ñuble
+1624,346,San Nicolás

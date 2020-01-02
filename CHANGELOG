@@ -1,3 +1,10 @@
+## [0.0.3] - 2019-12-31
+### Added
+- Agrega localidades por comunas
+- Añade archivos CSV con información de tablas por separado
+- Incorpora modelo físico en formato MWB (MySQL Workbench)
+- Incluye archivos SQL con el formato y los datos por sepados, y un SQL con todo integrado
+
 ## [0.0.2] - 2017-11-27
 ### Added
 - Se añade la region de Ñuble, sus 3 provincias y 21 comunas
